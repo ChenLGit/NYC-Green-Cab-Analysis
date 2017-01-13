@@ -9,11 +9,17 @@ The green cab ridership dataset was cleaned by using SQL to filter out some unre
 ## RECOMMENDATIONS
 
 This analysis showed, as a green taxi driver, driving on right time, right areas and understanding consumer payment behaviors are very important to gain more revenue. Some recommendations to drivers are listed below:
+
 •	Tip and revenue per mile will be reduced along with the increasing trip distance. So it is better to drive short trips than long ones. Rule of thumb is less than 7 miles.
+
 •	It is better to drive in rush hours (7 am to 10 am and 5 pm to 8 pm) during weekdays, especially for morning rush hours, to gain more trips and revenues. During weekends, a whole day time driving is preferred. Furthermore, Saturday is a very important day for boosting revenue. 
+
 •	Although overnight driving seems have higher fare amount, after considering the lower demand at night, better revenue should be gain to drive during daily rush hours. 
+
 •	Upper Manhattan, Brooklyn Heights and Long Island City are the most popular areas for customers to hail green taxies. The Long Island City area is a better choice during weekends comparing with other two areas. 
+
 •	Multiple weather indexes are strong indicators for customers to hail a taxi. Generally, the worse the weather condition is, the better for taxi drivers to gain revenue. 
+
 All in all, key words for green cab drivers to boost their revenues are short trip, rush hours, Saturday, Long Island City, worse weather. 
 
 
